@@ -28,4 +28,4 @@
 
 ---
 
-[![Rune's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuneCodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Rune's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuneCodes&hide=prs,issues&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
